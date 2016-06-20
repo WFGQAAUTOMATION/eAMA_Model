@@ -94,6 +94,7 @@ Answer Background Questions Positively
 	And Scroll Page to Location Where Y equals "1500"
 	Then Click Button with ID = "NrbnAnswer11"
 	Then Click Button with ID = "YrbnAnswer12"
+	And Scroll Page to Location Where Y equals "100"
 	And Click Button with ID = "Next"
 #
 #Associate Membership Agreement
