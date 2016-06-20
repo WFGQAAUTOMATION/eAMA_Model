@@ -27,7 +27,7 @@ Type "${text}" in the Field Titled "${fieldname}"
 #*****************************************************
 
 Browser is Open to eAMA
-	Open Browser    ${LOGIN_URL}   ${Browser}   ff_profile_dir=${FF_PROFILE}	http://161.179.241.85:4444/wd/hub
+	Open Browser    ${LOGIN_URL}   ${Browser}	http://161.179.241.85:4444/wd/hub   ff_profile_dir=${FF_PROFILE}
 
 #*****************************************************
 
