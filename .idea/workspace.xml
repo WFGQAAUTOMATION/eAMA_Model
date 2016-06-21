@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f6c75613-f5a7-4f7c-b88d-acf798518ece" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Resource_Webpage.robot" afterPath="$PROJECT_DIR$/Resources/Resource_Webpage.robot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Variable_Files/Model_Variables.py" afterPath="$PROJECT_DIR$/Variable_Files/Model_Variables.py" />
     </list>
     <ignored path="eAMA_Model.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +27,21 @@
       <file leaf-file-name="Resource_Webpage.robot" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/Resource_Webpage.robot">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="391">
+              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
               <folding>
                 <element signature="e#0#411#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Model_Variables.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Variable_Files/Model_Variables.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -86,13 +97,13 @@
         <option value="$PROJECT_DIR$/Test_Cases/webdriver_test.robot" />
         <option value="$PROJECT_DIR$/Resources/Database_Library.py" />
         <option value="C:/Python27/Training/FindElements/FindAnElement.py" />
-        <option value="$PROJECT_DIR$/Variable_Files/Model_Variables.py" />
         <option value="$PROJECT_DIR$/../MyWFG_Redesign/Test_Cases/08-My_Profile/Change_Beneficiary.robot" />
         <option value="$PROJECT_DIR$/../MyWFG_Redesign/Variable_Files/Redesign_Variables.py" />
         <option value="$PROJECT_DIR$/Test_Cases/WebDriverTest.robot" />
         <option value="$PROJECT_DIR$/Resources/Various_Methods.py" />
         <option value="$PROJECT_DIR$/Test_Cases/eAMA_US.robot" />
         <option value="$PROJECT_DIR$/Resources/Resource_Webpage.robot" />
+        <option value="$PROJECT_DIR$/Variable_Files/Model_Variables.py" />
       </list>
     </option>
   </component>
@@ -668,13 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Variable_Files/Model_Variables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../MyWFG_Redesign/Test_Cases/09-My_LifeLine/LifeLine_Dates_Verification_Annuity_Course.robot">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
@@ -806,10 +810,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Variable_Files/Model_Variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Resource_Webpage.robot">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="391">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
           <folding>
             <element signature="e#0#411#0" expanded="true" />
           </folding>
