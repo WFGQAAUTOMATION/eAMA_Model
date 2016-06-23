@@ -82,6 +82,7 @@ Answer Background Questions Positively
 	Then Click Button with ID = "NrbnAnswer1"
 	Then Click Button with ID = "NrbnAnswer2"
 	Then Click Button with ID = "NrbnAnswer3"
+	And Scroll Page to Location Where Y equals "600"
 	Then Click Button with ID = "NrbnAnswer4"
 	And Scroll Page to Location Where Y equals "600"
 	Then Click Button with ID = "NrbnAnswer5"

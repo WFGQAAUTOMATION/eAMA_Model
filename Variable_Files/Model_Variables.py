@@ -1,5 +1,5 @@
 # Login Variables
-BROWSER = "gc"
+BROWSER = "ff"
 FF_PROFILE = "C:/FF_Selenium"
 DELAY = 0
 LOGIN_URL = "https://m-reama.mywfg.com/"
