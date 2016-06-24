@@ -10,12 +10,12 @@ Library           re
 Suite Teardown    Close Browser
 
 *** Variables ***
-${var}    document.getElementsByClassName('btn btn-lg btn-main item-alt-inline-block')
+#${var}    document.getElementsByClassName('btn btn-lg btn-main item-alt-inline-block')
 
 *** Test Cases ***
 Open eAMA and Choose Country
-    [Tags]    DEBUG
     Given Browser is Open to eAMA
+Maximize
     Then Maximize Browser Window
     Then I Choose Country Named ${CountryName}
 
@@ -250,7 +250,7 @@ Get Reference Number
 Click To Complete Transaction
 	click element  xpath=//*[@onclick="Post()"]
 Get New Associate Number
-	Wait "4" Seconds
+	Wait "10" Seconds
 	${welcome}=     get text  xpath=//div[@id='divHeader']//*[@id='divWelcome']
 	log      ${welcome}
 
