@@ -7,7 +7,7 @@ Library           FakerLibrary
 Library           Collections
 Library           String
 Library           re
-Suite Teardown    Close Browser
+#Suite Teardown    Close Browser
 
 *** Variables ***
 #${var}    document.getElementsByClassName('btn btn-lg btn-main item-alt-inline-block')
@@ -247,11 +247,11 @@ Enter Payment Info
 Get Reference Number
 	Wait "6" Seconds
 	get value  xpath=//*[@id='contPaymentOptionsContent']/p[1]/span
-Click To Complete Transaction
-	click element  xpath=//*[@onclick="Post()"]
-Get New Associate Number
-	Wait "10" Seconds
-	${welcome}=     get text  xpath=//div[@id='divHeader']//*[@id='divWelcome']
-	log      ${welcome}
+#Click To Complete Transaction
+#	click element  xpath=//*[@onclick="Post()"]
+#Get New Associate Number
+#	Wait "10" Seconds
+#	${welcome}=     get text  xpath=//div[@id='divHeader']//*[@id='divWelcome']
+#	log      ${welcome}
 
 *** Keywords ***
