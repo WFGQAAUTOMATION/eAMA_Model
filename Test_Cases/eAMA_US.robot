@@ -247,8 +247,8 @@ Enter Payment Info
 Get Reference Number
 	Wait "6" Seconds
 	get value  xpath=//*[@id='contPaymentOptionsContent']/p[1]/span
-#Click To Complete Transaction
-#	click element  xpath=//*[@onclick="Post()"]
+Click To Complete Transaction
+	click element  xpath=//*[@onclick="Post()"]
 #Get New Associate Number
 #	Wait "10" Seconds
 #	${welcome}=     get text  xpath=//div[@id='divHeader']//*[@id='divWelcome']
