@@ -7,7 +7,7 @@ Library           FakerLibrary
 Library           Collections
 Library           String
 Library           re
-#Suite Teardown    Close Browser
+Suite Teardown    Close Browser
 
 *** Variables ***
 #${var}    document.getElementsByClassName('btn btn-lg btn-main item-alt-inline-block')
