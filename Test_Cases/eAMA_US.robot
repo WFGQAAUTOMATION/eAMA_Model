@@ -248,6 +248,7 @@ Get Reference Number
 	Wait "6" Seconds
 	get value  xpath=//*[@id='contPaymentOptionsContent']/p[1]/span
 Click To Complete Transaction
+	Wait "6" Seconds
 	click element  xpath=//*[@onclick="Post()"]
 Get New Associate Number
 	Wait "10" Seconds

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6c75613-f5a7-4f7c-b88d-acf798518ece" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test_Cases/eAMA_US.robot" afterPath="$PROJECT_DIR$/Test_Cases/eAMA_US.robot" />
     </list>
     <ignored path="eAMA_Model.iws" />
@@ -51,11 +52,11 @@
       <file leaf-file-name="eAMA_US.robot" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test_Cases/eAMA_US.robot">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="604">
+              <caret line="250" column="20" selection-start-line="250" selection-start-column="20" selection-end-line="250" selection-end-column="20" />
               <folding>
                 <element signature="e#0#297#0" expanded="true" />
-                <marker date="1469202181776" expanded="true" signature="5534:5572" ph="..." />
+                <marker date="1469628035689" expanded="true" signature="5534:5572" ph="..." />
               </folding>
             </state>
           </provider>
@@ -749,11 +750,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test_Cases/eAMA_US.robot">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="604">
+          <caret line="250" column="20" selection-start-line="250" selection-start-column="20" selection-end-line="250" selection-end-column="20" />
           <folding>
             <element signature="e#0#297#0" expanded="true" />
-            <marker date="1469202181776" expanded="true" signature="5534:5572" ph="..." />
+            <marker date="1469628035689" expanded="true" signature="5534:5572" ph="..." />
           </folding>
         </state>
       </provider>
