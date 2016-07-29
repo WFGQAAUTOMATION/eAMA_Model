@@ -37,7 +37,8 @@ Enter Birthdate
 Click Next
 	Then Click Button with ID = "Next"
 	Then Wait "3" Seconds
-	And Click Button named "OK"
+	Then click button   xpath=//*[@id='nextDialog']/div/div/div[3]/button[1]
+#	And Click Button named "OK"
 
 Enter Recruiter ID
 	Then Verify An Element Named "Recruiter Information:" Is On The Page
