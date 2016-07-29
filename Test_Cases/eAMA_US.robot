@@ -36,6 +36,7 @@ Enter Birthdate
 
 Click Next
 	Then Click Button with ID = "Next"
+	Then Wait "3" Seconds
 	And Click Button named "OK"
 
 Enter Recruiter ID
