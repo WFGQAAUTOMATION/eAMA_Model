@@ -38,11 +38,11 @@
       <file leaf-file-name="eAMA_US.robot" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test_Cases/eAMA_US.robot">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="113" column="66" selection-start-line="106" selection-start-column="0" selection-end-line="113" selection-end-column="66" />
+            <state relative-caret-position="646">
+              <caret line="116" column="43" selection-start-line="116" selection-start-column="43" selection-end-line="116" selection-end-column="43" />
               <folding>
                 <element signature="e#0#265#0" expanded="true" />
-                <marker date="1470238745830" expanded="true" signature="5685:5724" ph="..." />
+                <marker date="1470240057179" expanded="true" signature="5730:5769" ph="..." />
               </folding>
             </state>
           </provider>
@@ -747,11 +747,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test_Cases/eAMA_US.robot">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="113" column="66" selection-start-line="106" selection-start-column="0" selection-end-line="113" selection-end-column="66" />
+        <state relative-caret-position="646">
+          <caret line="116" column="43" selection-start-line="116" selection-start-column="43" selection-end-line="116" selection-end-column="43" />
           <folding>
             <element signature="e#0#265#0" expanded="true" />
-            <marker date="1470238745830" expanded="true" signature="5685:5724" ph="..." />
+            <marker date="1470240057179" expanded="true" signature="5730:5769" ph="..." />
           </folding>
         </state>
       </provider>
