@@ -31,7 +31,7 @@ Browser is Open to eAMA
 	...     ${LOGIN_URL}
 	...     browser=${Browser}
 	...     alias=None
-	...     remote_url=http://161.179.241.85:4444/wd/hub
+	#...     remote_url=http://161.179.241.85:4444/wd/hub
 	...     ff_profile_dir=${FF_PROFILE}
 
 #*****************************************************
