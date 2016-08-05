@@ -108,11 +108,11 @@ Select Checkbox
 	Then Select Checkbox Where ID is "disclosureAccepted"
 Click Continue
 	And Click Button with ID = "action-bar-btn-continue"
-#Switch to Signing Frame
-#	Then Switch to Frame Named "signingIframe"
 Click Start
 #	Then Click Button with ID = "ds_hldrBdy_navnexttext_btnInline"
 	Then Click Button using id "navigate-btn"
+Switch to Signing Frame
+	Then Switch to Frame Named "signingIframe"
 Enter Common Name
 	${CommonName}=  FakerLibrary.First Name
 	Then Type "${CommonName}" in the Field Titled "Enter Common Name"
